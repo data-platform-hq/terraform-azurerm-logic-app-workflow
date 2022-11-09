@@ -27,3 +27,15 @@ variable "name" {
   type        = string
   description = "Logic app name"
 }
+
+variable "workflow_parameters" {
+  type        = map(string)
+  description = "Workflow parameters"
+  default     = {}
+}
+
+variable "parameters" {
+  type        = map(string)
+  description = "Parameters"
+  default     = {}
+}
