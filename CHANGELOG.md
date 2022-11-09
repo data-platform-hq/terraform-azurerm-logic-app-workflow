@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.0.0...v1.0.1) (2022-11-09)
+
+
+### Bug Fixes
+
+* add parameters ([c02a09d](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/commit/c02a09dcce5d99aab493206d699bc5ab69abc456))
+
 # 1.0.0 (2022-11-07)
 
 
