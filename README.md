@@ -32,6 +32,7 @@ No modules.
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
 | <a name="input_env"></a> [env](#input\_env) | Environment | `string` | n/a | yes |
+| <a name="input_identity_ids"></a> [identity\_ids](#input\_identity\_ids) | List of user assigned identity IDs | `list(string)` | `null` | no |
 | <a name="input_location"></a> [location](#input\_location) | Location | `string` | n/a | yes |
 | <a name="input_name"></a> [name](#input\_name) | Logic app name | `string` | n/a | yes |
 | <a name="input_parameters"></a> [parameters](#input\_parameters) | Parameters | `map(string)` | `{}` | no |
@@ -45,6 +46,7 @@ No modules.
 | Name | Description |
 |------|-------------|
 | <a name="output_id"></a> [id](#output\_id) | The ID of the Logic App. |
+| <a name="output_identity"></a> [identity](#output\_identity) | Function app Managed Identity |
 <!-- END_TF_DOCS -->
 
 ## License
