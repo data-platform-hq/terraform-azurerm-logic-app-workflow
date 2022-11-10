@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.0.1...v1.1.0) (2022-11-10)
+
+
+### Features
+
+* add identity ([8d0d9ec](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/commit/8d0d9ec25135aa49162b3d3aa97a4e6c6d3c43f9))
+
 ## [1.0.1](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.0.0...v1.0.1) (2022-11-09)
 
 
