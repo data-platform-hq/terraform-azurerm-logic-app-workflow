@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.1.0...v1.1.1) (2022-11-10)
+
+
+### Bug Fixes
+
+* add identity output ([67eb937](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/commit/67eb93712502f7784e33a12cddc8dbbc2f3359af))
+
 # [1.1.0](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.0.1...v1.1.0) (2022-11-10)
 
 
