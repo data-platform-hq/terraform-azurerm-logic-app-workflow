@@ -39,3 +39,9 @@ variable "parameters" {
   description = "Parameters"
   default     = {}
 }
+
+variable "identity_ids" {
+  type        = list(string)
+  description = "List of user assigned identity IDs"
+  default     = null
+}
