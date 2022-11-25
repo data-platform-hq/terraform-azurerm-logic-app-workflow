@@ -29,13 +29,13 @@ variable "name" {
 }
 
 variable "workflow_parameters" {
-  type        = map(string)
+  type        = map(any)
   description = "Workflow parameters"
   default     = {}
 }
 
 variable "parameters" {
-  type        = map(string)
+  type        = map(any)
   description = "Parameters"
   default     = {}
 }
