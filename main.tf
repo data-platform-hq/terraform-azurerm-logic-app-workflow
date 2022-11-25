@@ -15,7 +15,7 @@ resource "azurerm_logic_app_workflow" "this" {
   tags                = var.tags
   workflow_parameters = local.workflow_parameters
   identity {
-    type         = var.identity_ids == null ? "SystemAssigned" : "SystemAssigned, UserAssigned"
+    type         = var.identity_ids == null ? "SystemAssigned" : "UserAssigned"
     identity_ids = var.identity_ids
   }
 }
