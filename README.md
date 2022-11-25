@@ -35,11 +35,11 @@ No modules.
 | <a name="input_identity_ids"></a> [identity\_ids](#input\_identity\_ids) | List of user assigned identity IDs | `list(string)` | `null` | no |
 | <a name="input_location"></a> [location](#input\_location) | Location | `string` | n/a | yes |
 | <a name="input_name"></a> [name](#input\_name) | Logic app name | `string` | n/a | yes |
-| <a name="input_parameters"></a> [parameters](#input\_parameters) | Parameters | `map(string)` | `{}` | no |
+| <a name="input_parameters"></a> [parameters](#input\_parameters) | Parameters | `map(any)` | `{}` | no |
 | <a name="input_project"></a> [project](#input\_project) | Project name | `string` | n/a | yes |
 | <a name="input_resource_group"></a> [resource\_group](#input\_resource\_group) | Resource group name | `string` | n/a | yes |
 | <a name="input_tags"></a> [tags](#input\_tags) | Tags | `map(string)` | n/a | yes |
-| <a name="input_workflow_parameters"></a> [workflow\_parameters](#input\_workflow\_parameters) | Workflow parameters | `map(string)` | `{}` | no |
+| <a name="input_workflow_parameters"></a> [workflow\_parameters](#input\_workflow\_parameters) | Workflow parameters | `map(any)` | `{}` | no |
 
 ## Outputs
 
