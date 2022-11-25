@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.1.1...v1.1.2) (2022-11-25)
+
+
+### Bug Fixes
+
+* encode parameters value ([7e801be](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/commit/7e801be10102780186f4e5ca2d051b1e3dd57291))
+* update readme ([eaba828](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/commit/eaba8284a5c5a53a367fef3a61fffe7b9c3ed224))
+
 ## [1.1.1](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.1.0...v1.1.1) (2022-11-10)
 
 
