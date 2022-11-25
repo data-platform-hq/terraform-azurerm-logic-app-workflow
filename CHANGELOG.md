@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.1.3...v1.1.4) (2022-11-25)
+
+
+### Bug Fixes
+
+* Managed Identity Limit Per Flow ([a9d589d](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/commit/a9d589dab2400a92e67ce841b13018aefd80e60d))
+
 ## [1.1.3](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.1.2...v1.1.3) (2022-11-25)
 
 
