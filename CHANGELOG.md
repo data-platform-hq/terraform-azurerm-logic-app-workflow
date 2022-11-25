@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.1.2...v1.1.3) (2022-11-25)
+
+
+### Bug Fixes
+
+* update variable type ([cdad796](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/commit/cdad796c42d0aaf336855e9251830de1a9fa0b44))
+
 ## [1.1.2](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.1.1...v1.1.2) (2022-11-25)
 
 
