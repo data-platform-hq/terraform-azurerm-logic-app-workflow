@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.1.4...v1.2.0) (2023-01-27)
+
+
+### Bug Fixes
+
+* updated provider version ([f57951a](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/commit/f57951a0eb60778809625290cfc16134f9aafcfe))
+
+
+### Features
+
+* added opportunity to enable Diagnostic setting ([a1f93a4](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/commit/a1f93a42d889c4224f49a2943ee53493e9e6cbc3))
+
 ## [1.1.4](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.1.3...v1.1.4) (2022-11-25)
 
 
