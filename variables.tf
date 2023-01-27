@@ -45,3 +45,21 @@ variable "identity_ids" {
   description = "List of user assigned identity IDs"
   default     = null
 }
+
+variable "analytics_workspace_id" {
+  type        = string
+  description = "Resource ID of Log Analytics Workspace"
+  default     = null
+}
+
+variable "analytics_destination_type" {
+  type        = string
+  description = "Possible values are AzureDiagnostics and Dedicated."
+  default     = "Dedicated"
+}
+
+variable "enable_diagnostic_setting" {
+  type        = bool
+  description = "Enable diagnostic setting. var.analytics_workspace_id must be provided"
+  default     = false
+}
