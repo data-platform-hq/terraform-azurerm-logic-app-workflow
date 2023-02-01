@@ -43,7 +43,7 @@ resource "azurerm_monitor_diagnostic_setting" "this" {
     for_each = data.azurerm_monitor_diagnostic_categories.this[0].metrics
     content {
       category = metric.value
-      enabled = true
+      enabled  = true
       retention_policy {
         enabled = false
         days    = 0
