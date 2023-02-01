@@ -1,3 +1,11 @@
+## [1.2.1](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.2.0...v1.2.1) (2023-02-01)
+
+
+### Bug Fixes
+
+* added default parameters to prevent useless output in terraform plan ([88685b4](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/commit/88685b4a8d5ebe5f4c99efc61a5f1d76f5ff96a1))
+* formatting ([d76a05b](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/commit/d76a05bc095c6b2e4131bbd7a1d00916b2e40a45))
+
 # [1.2.0](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.1.4...v1.2.0) (2023-01-27)
 
 
