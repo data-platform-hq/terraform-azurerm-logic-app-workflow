@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.2.1...v1.3.0) (2024-09-10)
+
+
+### Features
+
+* upgrade to AzureRM v4 ([64a29db](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/commit/64a29dbe49196e833e702220cff2f96487840d3e))
+
 ## [1.2.1](https://github.com/data-platform-hq/terraform-azurerm-logic-app-workflow/compare/v1.2.0...v1.2.1) (2023-02-01)
 
 
